@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hi there 👋, I'm chuangz
 
-- 🌱 I’m currently learning build applications
-- 👯 I’m looking to collaborate on PO, TA, DevOps, Server Admin, ...
-- 💬 Ask me about C-type, Principles of programming languages
-- ⚡ Fun fact: Very serious person
+# ⚡ Love languages and tools
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuangz&show_icons=true&count_private=true&theme=algolia&layout=compact" alt="chuangz" />
