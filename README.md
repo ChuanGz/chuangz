@@ -18,4 +18,3 @@
 
 ### Activites
 <img src="https://github-readme-stats.vercel.app/api?username=chuangz&show_icons=true&theme=tokyonight" alt="chuangz" />
-<img src="https://stats.justsong.cn/api/leetcode/?username=kendisock&theme=dark">
