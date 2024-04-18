@@ -14,7 +14,7 @@
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp,dotnet,azure,jenkins,grafana,kubernetes,mint,nginx,postman,docker,rails,windows,selenium,ruby,py,redis,rabbitmq,nodejs,mongodb,git&perline=7)](https://skillicons.dev)
 
 ### Top used languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuangz&layout=donut-vertical&langs_count=12&hide_progress=true&size_weight=0&count_weight=1" alt="chuangz" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuangz&layout=donut-vertical&langs_count=12&hide_progress=true&size_weight=0.5&count_weight=0.5" alt="chuangz" />
 
 ### Activites
 <img src="https://github-readme-stats.vercel.app/api?username=chuangz&show_icons=true&theme=cobalt" alt="chuangz" />
