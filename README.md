@@ -3,6 +3,10 @@
 ### LeetCode
 <img src="https://stats.justsong.cn/api/leetcode/?username=kendisock&theme=dark" alt="chuangz" />
 
+### Hakkerank
+
+<img src="https://www.hackerrank.com/certificates/ba4ccd4c8196" alt="Problem Solving" />
+
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp,dotnet,azure,jenkins,grafana,kubernetes,mint,nginx,postman,docker,rails,windows,selenium,ruby,py,redis,rabbitmq,nodejs,mongodb,git&perline=7)](https://skillicons.dev)
 
