@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Kendy
 
 ### LeetCode
-<img src="https://stats.justsong.cn/api/leetcode/?username=chuangz&theme=dark" alt="chuangz" />
+<img src="https://stats.justsong.cn/api/leetcode/?username=kendisock&theme=dark" alt="kendisock" />
 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp,dotnet,azure,jenkins,grafana,kubernetes,mint,nginx,postman,docker,rails,windows,selenium,ruby,py,redis,rabbitmq,nodejs,mongodb,git&perline=3)](https://skillicons.dev)
