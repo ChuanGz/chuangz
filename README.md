@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Kendy
 
 ### LeetCode
-https://stats.justsong.cn/api/leetcode/?username=kendisock&theme=dark" alt="chuangz
+[![My LeetCode](https://stats.justsong.cn/api/leetcode/?username=kendisock&theme=dark)
 
 ### HackerRank
 - [Problem Solving Certified](https://www.hackerrank.com/certificates/ba4ccd4c8196)
