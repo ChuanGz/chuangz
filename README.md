@@ -10,7 +10,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=chuangz&show_icons=true&theme=cobalt" alt="chuangz" />
 
 ### LeetCode
-![My LeetCode](https://stats.justsong.cn/api/leetcode/?username=kendisock&theme=dark&img=3)
+![My LeetCode](https://stats.justsong.cn/api/leetcode/?username=kendisock&theme=dark&img=4)
 
 ### HackerRank
 - [Problem Solving Certified](https://www.hackerrank.com/certificates/ba4ccd4c8196)
