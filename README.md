@@ -14,7 +14,6 @@
 
 ### HackerRank
 [Profile](https://www.hackerrank.com/profile/kendisock)
-
 - [Problem Solving Certified](https://www.hackerrank.com/certificates/ba4ccd4c8196)
 - [Python Certified](https://www.hackerrank.com/certificates/3dab02d6162c)
 - [Ruby Certified](https://www.hackerrank.com/certificates/e7294f694279)
