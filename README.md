@@ -26,13 +26,6 @@ I care about code quality, system boundaries, and developer experience as much a
 
 ---
 
-### Activity & Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuangz&layout=donut-vertical&langs_count=20&hide_progress=true&size_weight=0.2&count_weight=0.8&theme=cobalt" alt="Top languages" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=chuangz&show_icons=true&theme=cobalt" alt="GitHub activity" />
-
----
-
 ### Problem Solving
 I practice algorithmic problem solving to keep my fundamentals sharp.
 
