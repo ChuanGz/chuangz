@@ -1,110 +1,60 @@
-## Hi, I’m Kendy 👋
+## Kendy
 
-I design and build **production-grade systems** with a strong focus on **.NET (C#)** and **JavaScript ecosystems**.  
-I care deeply about **system design, data integrity, and long-term maintainability** — not just shipping features.
+I design and build **production-grade systems** with a focus on **.NET (C#)** and **JavaScript**.  
+My work centers around **correctness, system design, and long-term maintainability** — not just delivering features.
 
 ---
 
-## ⚙️ What I Actually Do
+## What I Do
 
 - Build **scalable backend systems** with .NET  
-  _(Clean Architecture, CQRS, distributed patterns)_
+  (Clean Architecture, CQRS, transactional consistency)
 
-- Develop **complex frontend applications** with React  
-  _(state management, data-heavy UI, UX consistency)_
+- Develop **data-intensive frontend applications** with React  
+  (state management, async flows, UX consistency)
 
 - Design **system boundaries, data models, and integration flows**
 
-- Solve real-world problems around  
-  → **concurrency · consistency · reliability**
+- Handle real-world problems:
+  - concurrency (race conditions, double writes)
+  - consistency (idempotency, eventual vs strong consistency)
+  - reliability (retry, timeout, partial failure)
 
-- Improve **developer experience**  
-  _(code structure, standards, reusable patterns)_
-
----
-
-## 🧠 Main Stack (Focused)
-
-```txt
-Backend   → C#, .NET (EF Core, MediatR, SQL Server)
-Frontend  → JavaScript / TypeScript, React
-            (React Query, Zustand, RHF + Zod)
-System    → API design, event-driven architecture
-            background jobs, data pipelines
-```
+- Improve **engineering quality**
+  - code structure
+  - shared patterns
+  - developer experience
 
 ---
 
-## 🏗 Engineering Mindset
+## Core Stack
 
-- Think in **systems**, not just features  
-- Optimize for **correctness → then performance**  
-- Design for **change & scalability**, not quick fixes  
+Backend  
+- C#, .NET, EF Core, MediatR  
+- SQL Server (data modeling, constraints, performance)
 
-**Always consider:**
+Frontend  
+- JavaScript / TypeScript, React  
+- React Query, Zustand, React Hook Form + Zod  
 
-```txt
-Concurrency  → race condition, double write, oversell
-Failure      → retry, timeout, partial commit
-Data         → constraints, idempotency, consistency
-```
-
----
-
-## 🚀 Leadership & Impact
-
-- Lead by **technical direction**, not authority  
-- Break down complex problems into **clear, executable plans**  
-- Raise the bar on **engineering standards & thinking**  
-- Balance **product speed vs system quality**
+System  
+- API design  
+- event-driven architecture  
+- background processing  
+- data pipelines  
 
 ---
 
-## 💬 Communication & Soft Skills
+## Engineering Approach
 
-- Communicate **clear, structured, outcome-driven**
-- Avoid ego → focus on **what works for the system**
-- Influence via **logic, trade-offs, real constraints**
+- Think in **systems**, not isolated features  
+- Prioritize **correctness before performance**  
+- Design for **change, not short-term fixes**  
 
-**Work effectively with:**
-- **Product** → clarify problem, not just solution  
-- **Team** → align understanding, reduce ambiguity  
+Always reason about:
 
----
-
-## 🎯 Training & Mentoring
-
-Help developers move from:
-
-```txt
-"code works" → "system works under pressure"
-```
-
-**Focus on:**
-- System thinking (not just coding)
-- Debugging real production issues
-- Understanding failure & edge cases
-
-**Mindset:**
-- Ownership  
-- Accountability  
-- Continuous improvement  
+- concurrency → race condition, lost update, duplicate execution  
+- failure → retry side effects, timeout, partial commit  
+- data integrity → constraints, idempotency, consistency boundaries  
 
 ---
-
-## 🧩 Problem Solving
-
-I practice algorithmic problem solving to keep fundamentals sharp.
-
-![LeetCode](https://stats.justsong.cn/api/leetcode/?username=kendisock&theme=dark&img=4)
-
----
-
-## 🏅 HackerRank
-
-- [Profile](https://www.hackerrank.com/profile/kendisock)
-- [Problem Solving Certified](https://www.hackerrank.com/certificates/ba4ccd4c8196)
-- [C# Certified](https://www.hackerrank.com/certificates/0b13d58444c3)
-- [SQL Certified](https://www.hackerrank.com/certificates/7e904ddb6b7a)
-- [Python Certified](https://www.hackerrank.com/certificates/3dab02d6162c)
-- [Ruby Certified](https://www.hackerrank.com/certificates/e7294f694279)
