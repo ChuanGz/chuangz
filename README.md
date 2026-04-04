@@ -1,60 +1,75 @@
-## Kendy
+# Chuan Gz
 
-I design and build **production-grade systems** with a focus on **.NET (C#)** and **JavaScript**.  
-My work centers around **correctness, system design, and long-term maintainability** — not just delivering features.
+I design and build business software with a focus on .NET, React, Angular, and service-oriented systems.
 
----
+My current work sits across three active workspaces:
 
-## What I Do
+- private product and client systems
+- public reference repositories and reusable code
+- an engineering lab for notes, system design, and operational guidance
 
-- Build **scalable backend systems** with .NET  
-  (Clean Architecture, CQRS, transactional consistency)
+## What I Build
 
-- Develop **data-intensive frontend applications** with React  
-  (state management, async flows, UX consistency)
+- full-stack commerce systems with a React storefront, Angular backoffice, and .NET microservices
+- business applications for onboarding, invoice workflows, calendars, student management, and internal operations
+- integration-heavy backend systems, including SAP Business One related work and service-to-service communication
+- engineering documentation that explains architecture, delivery flow, troubleshooting, and operational standards
 
-- Design **system boundaries, data models, and integration flows**
+## What I Am Strong At
 
-- Handle real-world problems:
-  - concurrency (race conditions, double writes)
-  - consistency (idempotency, eventual vs strong consistency)
-  - reliability (retry, timeout, partial failure)
+- C# and .NET application design
+- service boundaries, domain modeling, and long-term maintainability
+- React and Angular application structure for business-facing products
+- data integrity, validation, and failure handling
+- turning messy projects into flatter, clearer, easier-to-maintain repositories
+- writing practical documentation for developers, maintainers, support, and technical leadership
 
-- Improve **engineering quality**
-  - code structure
-  - shared patterns
-  - developer experience
+## Current Level
 
----
+I work at the level where feature delivery is only one part of the job.
 
-## Core Stack
+I also care about:
 
-Backend  
-- C#, .NET, EF Core, MediatR  
-- SQL Server (data modeling, constraints, performance)
+- service contracts and ownership
+- error handling and common behavior across services
+- local development flow and deployment readiness
+- operational clarity through logs, metrics, and documentation
+- architectural decisions that still make sense after the codebase grows
 
-Frontend  
-- JavaScript / TypeScript, React  
-- React Query, Zustand, React Hook Form + Zod  
+## Selected Public Work
 
-System  
-- API design  
-- event-driven architecture  
-- background processing  
-- data pipelines  
+- [`olih-app`](https://github.com/ChuanGz/olih-app): a unified application repository with a .NET backend API and a React web client
+- [`engineering-lab`](https://github.com/ChuanGz/engineering-lab): a living knowledge base for engineering notes, platform guidance, system design, and development practice
+- [`sap-b1-service-layer`](https://github.com/ChuanGz/sap-b1-service-layer): a C# client library for SAP Business One Service Layer integrations
+- [`data-cockpit`](https://github.com/ChuanGz/data-cockpit): a reusable .NET CRUD-focused library built around shared data access patterns
 
----
+## Private Work Themes
 
-## Engineering Approach
+Some of my strongest work is private, but the themes are consistent:
 
-- Think in **systems**, not isolated features  
-- Prioritize **correctness before performance**  
-- Design for **change, not short-term fixes**  
+- commerce and ordering workflows
+- identity, gateway, inventory, payment, and saga-style coordination
+- business partner onboarding and import pipelines
+- enterprise integration and operational support tooling
 
-Always reason about:
+## How I Work
 
-- concurrency → race condition, lost update, duplicate execution  
-- failure → retry side effects, timeout, partial commit  
-- data integrity → constraints, idempotency, consistency boundaries  
+- keep the structure flat when possible
+- choose names that are easy to read and hard to misunderstand
+- remove placeholder code, dead notes, and accidental complexity
+- prefer stable systems over impressive-looking diagrams
+- document the parts that other engineers actually need to operate and maintain
 
----
+## What You Will See In My Repositories
+
+- backend projects with clearer boundaries and practical .NET patterns
+- frontend projects focused on maintainability, form workflows, and admin-style product experiences
+- repository cleanups that improve naming, layout, and documentation quality
+- technical notes that explain not only what the code does, but how the system should be run and supported
+
+## Focus Right Now
+
+- improving repository quality and portfolio clarity
+- raising the standard of documentation and operational readiness
+- refining reference systems that other developers can study and reuse
+- building systems that are realistic, teachable, and maintainable
