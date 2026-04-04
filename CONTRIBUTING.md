@@ -18,3 +18,13 @@ This profile repository is maintained directly by the repository owner.
 By submitting any material, you confirm that you have the right to submit it and that it does not knowingly violate another party's rights.
 
 You grant the repository owner a perpetual, worldwide, irrevocable, royalty-free, sublicensable right to use, modify, adapt, publish, redistribute, relicense, or reject the submission without compensation.
+
+## Commit Messages
+
+Use short, clean English commit messages with a clear action.
+
+Recommended style:
+
+- `Refresh profile links`
+- `Improve selected public work section`
+- `Add repository governance files`
