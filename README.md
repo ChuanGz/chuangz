@@ -71,5 +71,11 @@ Some of my strongest work is private, but the themes are consistent:
 
 - improving repository quality and portfolio clarity
 - raising the standard of documentation and operational readiness
-- refining reference systems that other developers can study and reuse
+- refining reference systems that other developers can study and learn from
 - building systems that are realistic, teachable, and maintainable
+
+## Usage Policy
+
+- The public repositories linked from this profile are shared for learning, technical review, and knowledge sharing.
+- No permission is granted to copy, reuse, modify, redistribute, sublicense, sell, deploy, or republish that work without prior written approval from the repository owner.
+- See [LICENSE](LICENSE), [DISCLAIMER.md](DISCLAIMER.md), [CONTRIBUTING.md](CONTRIBUTING.md), and [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
