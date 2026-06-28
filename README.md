@@ -1,87 +1,57 @@
 # ChuanGz
 
-I design maintainable business software and practical AI engineering systems.
-My work connects AI architecture, governed agent workflows, source-grounded
-knowledge systems, and AI-assisted delivery with established .NET and frontend
-engineering practices.
+Software Engineer · AI Engineering · .NET · React
 
-## What I Bring
+I build clear, maintainable software and practical AI workflows.
 
-- **AI architecture:** adoption models, governance boundaries, accountability,
-  evaluation, and scale-or-stop decisions.
-- **AI engineering:** verifiable AI-assisted delivery, context engineering,
-  human review, traceability, and acceptance evidence.
-- **Agent-system design:** explicit contracts for context, memory, models, tools,
-  orchestration, policy enforcement, failure handling, and observability.
-- **Grounded knowledge workflows:** provenance-aware ingestion, retrieval,
-  synthesis, linting, and reusable engine/consumer boundaries.
-- **Production software engineering:** C#/.NET services, React and Angular
-  applications, service integration, data integrity, testing, and operational
-  readiness.
-- **Technical leadership:** turning ambiguous requirements and fragmented
-  repositories into clear ownership, maintainable architecture, delivery gates,
-  and documentation that teams can operate.
+![AI Engineering](https://img.shields.io/badge/AI-Engineering-6f42c1)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 
-## AI Capability Map
+## ⚡ What I Do
 
-- **Enterprise AI adoption:** governance, accountability, pilot measurement,
-  maturity, and scale-or-stop decisions.
-- **AI-assisted software delivery:** context and prompt engineering,
-  verification, evaluation, traceability, and human-in-the-loop controls.
+| 🧠 AI Engineering |
+| --- |
+| Governed workflows, review, evaluation, and traceability. |
 
-These capability areas have separate responsibilities. Organizational adoption,
-engineering workflow, runtime contracts, reusable knowledge capability, and
-applied product evidence are related but not treated as the same concern.
+| ⚙️ Backend Engineering |
+| --- |
+| .NET services, APIs, integrations, and data. |
 
-## Software Engineering Strengths
+| 🖥️ Frontend Engineering |
+| --- |
+| React applications, testing, and release safety. |
 
-- C# and .NET application and service design
-- service boundaries, domain modeling, and integration contracts
-- React and Angular architecture for business-facing products
-- API, validation, persistence, and failure-handling design
-- event-driven workflows and service-to-service coordination
-- CI/CD, release gates, observability, and deployment readiness
-- repository architecture, reusable templates, and practical documentation
+## 🧩 Core Strengths
 
-I prioritize long-term stability and maintainability over short-lived tooling
-trends. I prefer explicit ownership, observable behavior, and evidence-backed
-decisions over architecture that only looks complete on paper.
+- AI-assisted software delivery
+- System and service architecture
+- .NET, React, and TypeScript
+- Testing, CI/CD, and observability
+- Reusable templates and engineering standards
+- Clear technical documentation
 
-## Selected Engineering Work
+## 📌 Featured Work
 
-| Repository | Engineering focus |
-| --- | --- |
-| [`engineering-playbook`](https://github.com/ChuanGz/engineering-playbook) | Practical standards for senior engineers, technical leads, and software architects |
-| [`dotnet-template`](https://github.com/ChuanGz/dotnet-template) | Option-driven .NET foundations for APIs, services, integrations, background processing, security, testing, and observability |
-| [`react-template`](https://github.com/ChuanGz/react-template) | Capability-driven React generation with isolated dependencies, validation, testing, release safety, and UI-library choice |
+[![Engineering Playbook](https://github-readme-stats.vercel.app/api/pin/?username=ChuanGz&repo=engineering-playbook&theme=transparent&hide_border=true)](https://github.com/ChuanGz/engineering-playbook)
 
-## How I Work
+[![.NET Template](https://github-readme-stats.vercel.app/api/pin/?username=ChuanGz&repo=dotnet-template&theme=transparent&hide_border=true)](https://github.com/ChuanGz/dotnet-template)
 
-- Start with the business workflow, system boundary, and failure modes.
-- Separate durable contracts from replaceable tools and frameworks.
-- Keep AI output reviewable, attributable, and subject to explicit acceptance
-  evidence.
-- Generate or install only capabilities a project has selected.
-- Treat security, observability, migration, and rollback as delivery concerns,
-  not post-release documentation tasks.
-- Keep repositories navigable and make ownership clear enough for another
-  engineer to continue the work.
+[![React Template](https://github-readme-stats.vercel.app/api/pin/?username=ChuanGz&repo=react-template&theme=transparent&hide_border=true)](https://github.com/ChuanGz/react-template)
 
-## Current Focus
+## 📊 GitHub Statistics
 
-- governed and observable AI agent workflows
-- enterprise AI adoption and measurable engineering outcomes
-- source-grounded knowledge systems with durable provenance
-- reusable .NET and React application foundations
-- realistic reference systems that connect architecture to delivery evidence
+![GitHub statistics](https://github-readme-stats.vercel.app/api?username=ChuanGz&show_icons=true&hide_title=true&hide_border=true&theme=transparent)
 
-## Usage Policy
+## 🎯 How I Work
 
-- Public repositories linked from this profile are shared for learning,
-  technical review, and knowledge sharing under their individual license terms.
-- This profile repository grants no permission to copy, modify, redistribute,
-  sublicense, sell, deploy, or republish its contents without prior written
-  approval.
-- See [LICENSE](LICENSE), [DISCLAIMER.md](DISCLAIMER.md),
-  [CONTRIBUTING.md](CONTRIBUTING.md), and
-  [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
+- Start with the business problem.
+- Keep ownership and boundaries clear.
+- Review AI output with evidence.
+- Prefer stable and maintainable solutions.
+
+---
+
+[License](LICENSE) · [Disclaimer](DISCLAIMER.md) ·
+[Contributing](CONTRIBUTING.md) · [Code of Conduct](CODE_OF_CONDUCT.md)
