@@ -24,10 +24,12 @@ engineering practices.
 
 ## AI Capability Map
 
-| Capability | What I focus on | Public evidence |
-| --- | --- | --- |
+- **Enterprise AI adoption:** governance, accountability, pilot measurement,
+  maturity, and scale-or-stop decisions.
+- **AI-assisted software delivery:** context and prompt engineering,
+  verification, evaluation, traceability, and human-in-the-loop controls.
 
-These repositories have separate responsibilities: organizational adoption,
+These capability areas have separate responsibilities. Organizational adoption,
 engineering workflow, runtime contracts, reusable knowledge capability, and
 applied product evidence are related but not treated as the same concern.
 
