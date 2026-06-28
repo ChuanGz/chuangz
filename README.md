@@ -49,9 +49,9 @@ decisions over architecture that only looks complete on paper.
 
 | Repository | Engineering focus |
 | --- | --- |
+| [`engineering-playbook`](https://github.com/ChuanGz/engineering-playbook) | Practical standards for senior engineers, technical leads, and software architects |
 | [`dotnet-template`](https://github.com/ChuanGz/dotnet-template) | Option-driven .NET foundations for APIs, services, integrations, background processing, security, testing, and observability |
 | [`react-template`](https://github.com/ChuanGz/react-template) | Capability-driven React generation with isolated dependencies, validation, testing, release safety, and UI-library choice |
-| [`engineering-playbook`](https://github.com/ChuanGz/engineering-playbook) | Practical standards for senior engineers, technical leads, and software architects |
 
 ## How I Work
 
