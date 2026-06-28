@@ -1,4 +1,4 @@
-# Chuan Gz
+# ChuanGz
 
 I design maintainable business software and practical AI engineering systems.
 My work connects AI architecture, governed agent workflows, source-grounded
