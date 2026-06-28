@@ -1,77 +1,85 @@
 # Chuan Gz
 
-I design and build business software with a focus on .NET, React, Angular, and service-oriented systems.
+I design maintainable business software and practical AI engineering systems.
+My work connects AI architecture, governed agent workflows, source-grounded
+knowledge systems, and AI-assisted delivery with established .NET and frontend
+engineering practices.
 
-My current work sits across three active workspaces:
+## What I Bring
 
-- private product and client systems
-- public reference repositories and reusable code
-- an engineering lab for notes, system design, and operational guidance
+- **AI architecture:** adoption models, governance boundaries, accountability,
+  evaluation, and scale-or-stop decisions.
+- **AI engineering:** verifiable AI-assisted delivery, context engineering,
+  human review, traceability, and acceptance evidence.
+- **Agent-system design:** explicit contracts for context, memory, models, tools,
+  orchestration, policy enforcement, failure handling, and observability.
+- **Grounded knowledge workflows:** provenance-aware ingestion, retrieval,
+  synthesis, linting, and reusable engine/consumer boundaries.
+- **Production software engineering:** C#/.NET services, React and Angular
+  applications, service integration, data integrity, testing, and operational
+  readiness.
+- **Technical leadership:** turning ambiguous requirements and fragmented
+  repositories into clear ownership, maintainable architecture, delivery gates,
+  and documentation that teams can operate.
 
-## What I Build
+## AI Capability Map
 
-- full-stack commerce systems with a React storefront, Angular backoffice, and .NET microservices
-- business applications for onboarding, invoice workflows, calendars, student management, and internal operations
-- integration-heavy backend systems, including SAP Business One related work and service-to-service communication
-- engineering documentation that explains architecture, delivery flow, troubleshooting, and operational standards
+| Capability | What I focus on | Public evidence |
+| --- | --- | --- |
 
-## What I Am Strong At
+These repositories have separate responsibilities: organizational adoption,
+engineering workflow, runtime contracts, reusable knowledge capability, and
+applied product evidence are related but not treated as the same concern.
 
-- C# and .NET application design
-- service boundaries, domain modeling, and long-term maintainability
-- React and Angular application structure for business-facing products
-- data integrity, validation, and failure handling
-- turning messy projects into flatter, clearer, easier-to-maintain repositories
-- writing practical documentation for developers, maintainers, support, and technical leadership
+## Software Engineering Strengths
 
-## Current Level
+- C# and .NET application and service design
+- service boundaries, domain modeling, and integration contracts
+- React and Angular architecture for business-facing products
+- API, validation, persistence, and failure-handling design
+- event-driven workflows and service-to-service coordination
+- CI/CD, release gates, observability, and deployment readiness
+- repository architecture, reusable templates, and practical documentation
 
-I work at the level where feature delivery is only one part of the job.
+I prioritize long-term stability and maintainability over short-lived tooling
+trends. I prefer explicit ownership, observable behavior, and evidence-backed
+decisions over architecture that only looks complete on paper.
 
-I also care about:
+## Selected Engineering Work
 
-- service contracts and ownership
-- error handling and common behavior across services
-- local development flow and deployment readiness
-- operational clarity through logs, metrics, and documentation
-- architectural decisions that still make sense after the codebase grows
-
-## Selected Public Work
-
-
-## Private Work Themes
-
-Some of my strongest work is private, but the themes are consistent:
-
-- commerce and ordering workflows
-- identity, gateway, inventory, payment, and saga-style coordination
-- business partner onboarding and import pipelines
-- enterprise integration and operational support tooling
+| Repository | Engineering focus |
+| --- | --- |
+| [`dotnet-template`](https://github.com/ChuanGz/dotnet-template) | Option-driven .NET foundations for APIs, services, integrations, background processing, security, testing, and observability |
+| [`react-template`](https://github.com/ChuanGz/react-template) | Capability-driven React generation with isolated dependencies, validation, testing, release safety, and UI-library choice |
+| [`engineering-playbook`](https://github.com/ChuanGz/engineering-playbook) | Practical standards for senior engineers, technical leads, and software architects |
 
 ## How I Work
 
-- keep the structure flat when possible
-- choose names that are easy to read and hard to misunderstand
-- remove placeholder code, dead notes, and accidental complexity
-- prefer stable systems over impressive-looking diagrams
-- document the parts that other engineers actually need to operate and maintain
+- Start with the business workflow, system boundary, and failure modes.
+- Separate durable contracts from replaceable tools and frameworks.
+- Keep AI output reviewable, attributable, and subject to explicit acceptance
+  evidence.
+- Generate or install only capabilities a project has selected.
+- Treat security, observability, migration, and rollback as delivery concerns,
+  not post-release documentation tasks.
+- Keep repositories navigable and make ownership clear enough for another
+  engineer to continue the work.
 
-## What You Will See In My Repositories
+## Current Focus
 
-- backend projects with clearer boundaries and practical .NET patterns
-- frontend projects focused on maintainability, form workflows, and admin-style product experiences
-- repository cleanups that improve naming, layout, and documentation quality
-- technical notes that explain not only what the code does, but how the system should be run and supported
-
-## Focus Right Now
-
-- improving repository quality and portfolio clarity
-- raising the standard of documentation and operational readiness
-- refining reference systems that other developers can study and learn from
-- building systems that are realistic, teachable, and maintainable
+- governed and observable AI agent workflows
+- enterprise AI adoption and measurable engineering outcomes
+- source-grounded knowledge systems with durable provenance
+- reusable .NET and React application foundations
+- realistic reference systems that connect architecture to delivery evidence
 
 ## Usage Policy
 
-- The public repositories linked from this profile are shared for learning, technical review, and knowledge sharing.
-- No permission is granted to copy, reuse, modify, redistribute, sublicense, sell, deploy, or republish that work without prior written approval from the repository owner.
-- See [LICENSE](LICENSE), [DISCLAIMER.md](DISCLAIMER.md), [CONTRIBUTING.md](CONTRIBUTING.md), and [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
+- Public repositories linked from this profile are shared for learning,
+  technical review, and knowledge sharing under their individual license terms.
+- This profile repository grants no permission to copy, modify, redistribute,
+  sublicense, sell, deploy, or republish its contents without prior written
+  approval.
+- See [LICENSE](LICENSE), [DISCLAIMER.md](DISCLAIMER.md),
+  [CONTRIBUTING.md](CONTRIBUTING.md), and
+  [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
